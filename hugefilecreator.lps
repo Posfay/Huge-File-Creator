@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="hugefilecreator.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="14" Y="23"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="hugefilecreator.lpr"/>
+        <Caret Line="16" Column="13"/>
+      </Position1>
+      <Position2>
+        <Filename Value="hugefilecreator.lpr"/>
+        <Caret Line="6" Column="8"/>
+      </Position2>
+      <Position3>
+        <Filename Value="hugefilecreator.lpr"/>
+        <Caret Line="13" Column="9"/>
+      </Position3>
+      <Position4>
+        <Filename Value="hugefilecreator.lpr"/>
+        <Caret Line="6" Column="29"/>
+      </Position4>
+      <Position5>
+        <Filename Value="hugefilecreator.lpr"/>
+        <Caret Line="11" Column="8"/>
+      </Position5>
+      <Position6>
+        <Filename Value="hugefilecreator.lpr"/>
+        <Caret Line="14" Column="38"/>
+      </Position6>
+      <Position7>
+        <Filename Value="hugefilecreator.lpr"/>
+        <Caret Line="19" Column="15"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
